@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+.out/
+.next/
+
+# Cache
+.cache/
+.parcel-cache/
+.vite/
+
+# Environment variables (DO NOT PUSH THESE)
+.env
+.env.local
+.env.development
+.env.production
+.env.test
