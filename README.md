@@ -244,13 +244,6 @@ npm run type-check
 
 This project is licensed under the MIT License.
 
-## 🙏 Acknowledgments
-
-- React team for the amazing framework
-- Vite team for the lightning-fast build tool
-- AI service providers for powerful APIs
-- Design inspiration from modern web applications
-
 ---
 
-**Built with ❤️ using React, Vite, and AI**
+Built with ❤️ using React, Vite, and AI
