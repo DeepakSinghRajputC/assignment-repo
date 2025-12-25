@@ -2,10 +2,6 @@
 
 A sophisticated AI-powered product recommendation engine with professional UI/UX design, advanced loading states, and intelligent natural language processing.
 
-## 🚀 Live Demo
-
-The application is currently running at `http://localhost:5173` (Vite dev server)
-
 ## 🛠 Technology Stack
 
 ### **Core Technologies**
